@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Production
+dist/
+
+# Environment
+.env
+.env.*
+.env.example
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build cache
+.cache/
+.temp/
+.tmp/
+
+# Coverage
+coverage/
+
+# TypeScript
+*.tsbuildinfo
